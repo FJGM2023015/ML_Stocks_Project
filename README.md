@@ -1,1 +1,1 @@
-# ML_Stocks_Project
+# Linear Regression vs ARIMA Model
